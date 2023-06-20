@@ -1,0 +1,70 @@
+.clock {
+    width: 240px;
+    aspect-ratio: 1;
+    border: 1px solid;
+    border-radius: 50%;
+    position: relative;
+}
+.clock div{
+    position: absolute;
+    left: 120px;
+    bottom: 120px;
+    background-color: black;
+    width: 3px;
+    transform-origin: bottom;
+}
+#hour{
+    height: 60px;
+}
+#minute{
+    height: 80px;
+}
+#second{
+    height: 100px;
+    width: 1px;
+    background-color: brown;
+}
+span{
+    position: absolute;
+    font-size: 24px;
+    color: brown;
+}
+#twelve{
+    left: 50%;
+    translate: -50%;
+}
+#three{
+    top: 50%;
+    right: 4px;
+    translate: 0 -50%
+}
+#six{
+    bottom: 0;
+    left: 50%;
+    translate: -50%
+}
+#nine{
+    top: 50%;
+    left: 4px;
+    translate: 0 -50%;
+}
+input {
+    width: 50px;
+    color: darkcyan;
+    padding: 5px 0;
+    text-align: right;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+input:focus {
+    outline: 0;
+}
+#submit {
+    text-align: center;
+}
+#submit:hover{
+    cursor: pointer;
+}
+form {
+    margin: 10px 40px;
+}
