@@ -5,7 +5,7 @@ The component displays the current time on the clock and offers users the abilit
 
 Clone the repo: 
 
-git clone https://github.com/innaaznauryan/Pagination
+git clone https://github.com/innaaznauryan/clock
 
 Install npm packages: 
 
