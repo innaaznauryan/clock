@@ -7,6 +7,8 @@ The component displays the current time on the clock and offers users the abilit
 
 * Clone the repo: `git clone https://github.com/innaaznauryan/clock`
 
+* Navigate to the directory: `cd clock`
+
 * Install npm packages: `npm install`
 
 * Run the Project: `npm run dev`
