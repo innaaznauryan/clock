@@ -3,16 +3,12 @@ Rock around the clock!
 This is a custom clock component developed using React JS. 
 The component displays the current time on the clock and offers users the ability to set a specific time.
 
-Clone the repo: 
+### How to run the project
 
-git clone https://github.com/innaaznauryan/clock
+* Clone the repo: `git clone https://github.com/innaaznauryan/clock`
 
-Install npm packages: 
+* Install npm packages: `npm install`
 
-npm install
-
-Run the Project: 
-
-npm run dev
+* Run the Project: `npm run dev`
 
 Have fun!
