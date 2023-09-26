@@ -1,5 +1,5 @@
 Rock around the clock!  
-Live at [Clock](https://rockaroundtheclock.netlify.app/)
+Live clock [Here](https://rockaroundtheclock.netlify.app/)!
 
 This is a custom clock component developed using React JS. 
 The component displays the current time on the clock and offers users the ability to set a specific time.
